@@ -9,12 +9,10 @@ This is a simple e-commerce application built using **Java** as a console-based 
 - **Order Management**: Place orders based on the items in the shopping cart.
 - **User Authentication**: Simple user sign-up and login functionality (optional).
 - **Admin Features**: Admins can add, edit, and remove products (optional).
-- **Persistent Data**: Products and orders are saved to a file or database (depending on implementation).
-
+- **Persistent Data**: Products and orders are saved to a file .
 ## Technologies Used
 - **Language**: Java
-- **Data Storage**: Files (e.g., text files, CSV) or simple databases (e.g., SQLite, MySQL)
-- **Build Tool**: Maven or Gradle
+- **Data Storage**: Files (e.g., text files, CSV) 
 - **Testing**: JUnit for unit testing
 
 ## Installation
